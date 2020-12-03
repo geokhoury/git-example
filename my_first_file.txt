@@ -1,0 +1,5 @@
+This is my first tracked file.
+Git will track changes made to this file.
+
+I will now add more lines to this file.
+I will again take a "snapshot" of this file.
