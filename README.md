@@ -10,6 +10,6 @@ Example repository for Git training.
 
 ## Git Oath
 
-- [] I will commit my changes often.
-- [] I will push my changes to a remote repository.
-- [] I will always use `git status` to check the status of my repository.
+- [x] I will commit my changes often.
+- [x] I will push my changes to a remote repository.
+- [x] I will always use `git status` to check the status of my repository.
